@@ -1,10 +1,8 @@
 # Table of content
-  - ## [Supabase](##supabase)
-    - ### [Authentication](###authentication)
+  - ## [MongoDb](##mongodb)
   - ## VueJs
   - ## Vuetify
+  - ## Asp.Net
 
-## Supabase
-Supabase documentation helps easy setup for "Dev meeting" application
-### Authentication
-Here comes the authentication section
+## MongoDb
+MongoDb requites some basic confguration which will be included in here.
