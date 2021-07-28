@@ -10,11 +10,13 @@ Dev Meetups is a website for creating and managing meetings
 - [Vuerify](https://vuetifyjs.com)
 
   Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips.
-- [Supabase](https://supabase.io)
+- [Asp.Net](https://dotnet.microsoft.com/apps/aspnet)
 
-  Supabase is an open source Firebase alternative.
+  .NET is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.
+
+  ASP.NET extends the .NET developer platform with tools and libraries specifically for building web apps.
 
 # Resources
 - [Introduction -- Vue.js](https://vuejs.org/v2/guide/)
 - [Vuetify - A Material Design Framework For Vue.js](https://vuetifyjs.com)
-- [About | Supabase](https://supabase.io/docs)
+- [ASP.NET | Open-source web framework for .NET](https://dotnet.microsoft.com/apps/aspnet)
